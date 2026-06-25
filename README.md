@@ -122,13 +122,14 @@ Mata Kuliah: Pemrograman Website
 ## Halaman Lab8_VueJs
 
 ### Halaman Home / Beranda
-<img width="959" height="491" alt="image" src="https://github.com/user-attachments/assets/cb4b9fcb-865e-4b19-b3d4-0630de501a09" />
+<img width="1702" height="924" alt="ChatGPT Image 25 Jun 2026, 16 36 17" src="https://github.com/user-attachments/assets/36fc780d-5632-4f6b-bd8d-9e52e7d00133" />
+
 
 ### Halaman Kelola Artikel 
-<img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/769479c4-c6ea-4e9d-9bb7-f3519f73c7d5" />
+<<img width="1799" height="874" alt="ChatGPT Image 25 Jun 2026, 16 32 12" src="https://github.com/user-attachments/assets/1812181b-9524-4d34-a853-38fb6e4e5609" />
 
 ### Halanman Tentang Saya 
-<img width="955" height="479" alt="image" src="https://github.com/user-attachments/assets/45efd97d-e2a6-4434-bcad-abd96cbbf540" />
+<img width="1771" height="888" alt="ChatGPT Image 25 Jun 2026, 16 30 28" src="https://github.com/user-attachments/assets/804a760d-39fd-4e6a-90af-285de2ec904c" />
 
 ### Halaman Post 
-<img width="386" height="257" alt="image" src="https://github.com/user-attachments/assets/40496903-bc04-4abc-8b27-361adf494b26" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0b6f91bd-16a1-4710-8ff1-0e09e1eea3e2" />
