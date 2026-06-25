@@ -102,7 +102,8 @@ Mata Kuliah: Pemrograman Website
 ## HALAMAN Lab_Ci11
 
 ### Halaman Home 
-<img width="958" height="467" alt="image" src="https://github.com/user-attachments/assets/90d525fc-4f72-4aca-9c55-e1f9c97689ab" />
+<img width="960" height="540" alt="Screenshot 2026-06-25 160636" src="https://github.com/user-attachments/assets/7f12a0c5-b00f-40e7-ae7a-d7610172de8f" />
+
 
 ### Halaman Artikel 
 <img width="959" height="464" alt="image" src="https://github.com/user-attachments/assets/ab6ce22a-588e-4c17-8c58-73fec2b9b9df" />
