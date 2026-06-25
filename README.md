@@ -106,19 +106,18 @@ Mata Kuliah: Pemrograman Website
 
 
 ### Halaman Artikel 
-<img width="959" height="464" alt="image" src="https://github.com/user-attachments/assets/ab6ce22a-588e-4c17-8c58-73fec2b9b9df" />
+<img width="960" height="540" alt="Screenshot 2026-06-25 161010" src="https://github.com/user-attachments/assets/aa77dca2-1eab-4384-9e64-dca52d0f1c9b" />
+
 
 ### Halaman Ajax 
-<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/44bf365c-ba2d-40af-8689-30c8afab3e81" />
-
-### Halaman About 
-<img width="959" height="488" alt="image" src="https://github.com/user-attachments/assets/2067e432-2784-4384-a37b-35c67391b99e" />
+<img width="960" height="540" alt="Screenshot 2026-06-25 161031" src="https://github.com/user-attachments/assets/2cb03924-f2a4-4685-935e-663338d9334b" />
 
 ### Halaman Dashboard Admin 
-<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/38c33e78-873b-41e5-9b94-988aec0be1ac" />
+<img width="960" height="540" alt="Screenshot 2026-06-25 161031" src="https://github.com/user-attachments/assets/a190b40c-b28b-4582-9b1d-a6bf6357f63b" />
+
 
 ### Halaman Tambah Artikel 
-<img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/b6174325-2884-4c38-b3ec-ff0b2d519612" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d9cffa92-e8da-49f9-be80-5b4381244abc" />
 
 ## Halaman Lab8_VueJs
 
